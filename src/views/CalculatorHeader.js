@@ -32,14 +32,17 @@ function CalculatorHeader(props) {
     return (
         <div className='calc-container_header'>
            
-            <div className='d-flex flex-column my-4'>
+            {/* <div className='d-flex flex-column my-4'>
                <span>subResult={props.subResult}  </span>
                <span> numberOne={props.numberOne}</span> 
                <b>_________________</b>
                <span>result={props.result} </span>
                <span> currentAction={props.currentAction} </span>
                <span> flag={`${props.isFlag }`} </span>
-            </div>
+               <span>type of result = {typeof(props.result)} </span>
+               <span>type of subResult = {typeof(props.subResult)} </span>
+               <span>type of numberOne = {typeof(props.numberOne)} </span>
+            </div> */}
 
             <div className='calc-container_header__small' >
                 { smallText }

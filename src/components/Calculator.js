@@ -102,6 +102,7 @@ function Calculator(props) {
  
         setNumberOne(newStringNumber)   
     }
+    
     function equal() {  
         if(isFlag) {
             const result = countResult()
@@ -117,6 +118,7 @@ function Calculator(props) {
 
     function isLengthOfDecimalPart(number, length){
        let lenghtDP = (number.toString().includes('.')) ? (number.toString().split('.').pop().length) : (0)  
+       console.log(lenghtDP)
        if(lenghtDP > length) { 
             return true
        }  
@@ -170,9 +172,11 @@ function Calculator(props) {
             }; break; 
             default: break;
         }  
-        if(isLengthOfDecimalPart(result, 9) && typeof(result) === 'number') { 
+        
+        if(isLengthOfDecimalPart(result, 9) && result !==  error) {  
             result = result.toFixed(9)
         }  
+        result = Number(result)
         return result 
     }
 
