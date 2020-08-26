@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.cfeb1bb7.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.cac62a20.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.cac62a20.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.70c7d8ed.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.70c7d8ed.js.map",
-    "static/js/2.5e881f07.chunk.js": "/react-gh-pages/static/js/2.5e881f07.chunk.js",
-    "static/js/2.5e881f07.chunk.js.map": "/react-gh-pages/static/js/2.5e881f07.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.01a696c590a2be6fc39c2a185a5fd385.js": "/react-gh-pages/precache-manifest.01a696c590a2be6fc39c2a185a5fd385.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.cfeb1bb7.chunk.css.map": "/react-gh-pages/static/css/main.cfeb1bb7.chunk.css.map",
-    "static/js/2.5e881f07.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.5e881f07.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/react-gh-pages/static/media/fontello.fe02632f.woff"
+    "main.css": "/react_calc/static/css/main.daec5eef.chunk.css",
+    "main.js": "/react_calc/static/js/main.2557e602.chunk.js",
+    "main.js.map": "/react_calc/static/js/main.2557e602.chunk.js.map",
+    "runtime-main.js": "/react_calc/static/js/runtime-main.ea7fd07d.js",
+    "runtime-main.js.map": "/react_calc/static/js/runtime-main.ea7fd07d.js.map",
+    "static/js/2.5e881f07.chunk.js": "/react_calc/static/js/2.5e881f07.chunk.js",
+    "static/js/2.5e881f07.chunk.js.map": "/react_calc/static/js/2.5e881f07.chunk.js.map",
+    "index.html": "/react_calc/index.html",
+    "precache-manifest.4a310e6c35c7d5fe934d95e64dcf1b00.js": "/react_calc/precache-manifest.4a310e6c35c7d5fe934d95e64dcf1b00.js",
+    "service-worker.js": "/react_calc/service-worker.js",
+    "static/css/main.daec5eef.chunk.css.map": "/react_calc/static/css/main.daec5eef.chunk.css.map",
+    "static/js/2.5e881f07.chunk.js.LICENSE.txt": "/react_calc/static/js/2.5e881f07.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/react_calc/static/media/fontello.fe02632f.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.70c7d8ed.js",
+    "static/js/runtime-main.ea7fd07d.js",
     "static/js/2.5e881f07.chunk.js",
-    "static/css/main.cfeb1bb7.chunk.css",
-    "static/js/main.cac62a20.chunk.js"
+    "static/css/main.daec5eef.chunk.css",
+    "static/js/main.2557e602.chunk.js"
   ]
 }
